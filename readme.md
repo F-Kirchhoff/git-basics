@@ -19,5 +19,8 @@
 ## remote repository
 
 - `git remote add origin <ssh link>` -
-- `git remote -v` - 
-- `git push -u origin <branch name>` - 
+- `git remote -v` -
+- `git push -u origin <branch name>` -
+- `git push`
+- `git pull -u origin <branch name>` -
+- `git pull`
