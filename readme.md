@@ -10,3 +10,7 @@
 - `git add` -
 - `git commit -m <commit message>` -
 - `git log` -
+
+## how to return to save points
+
+- `git restore <file name>` -
