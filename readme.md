@@ -14,3 +14,4 @@
 ## how to return to save points
 
 - `git restore <file name>` -
+- `git restore --staged <file name>` -
