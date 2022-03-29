@@ -24,3 +24,9 @@
 - `git push`
 - `git pull -u origin <branch name>` -
 - `git pull`
+
+## branching
+
+- `git branch` -
+- `git branch <branch name>` -
+- `git switch` -
