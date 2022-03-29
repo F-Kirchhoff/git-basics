@@ -15,3 +15,9 @@
 
 - `git restore <file name>` -
 - `git restore --staged <file name>` -
+
+## remote repository
+
+- `git remote add origin <ssh link>` -
+- `git remote -v` - 
+- `git push -u origin <branch name>` - 
